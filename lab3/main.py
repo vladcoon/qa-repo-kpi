@@ -14,12 +14,12 @@ target_url = "http://www.facebook.com"
 
 class NewUser:
     firstname = 'Anna'
-    lastname = 'Tychenko'
-    email = 'aniatychenko.fake1@mail.ru'
+    lastname = 'Kotova'
+    email = 'aniakotova.fake1@mail.ru'
     password = 'Pa55word'
     birth_day = '11'
     birth_month = 'мая'
-    birth_year = '2001'
+    birth_year = '2021'
     sex = "Женщина"
 
 
